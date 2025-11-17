@@ -146,4 +146,6 @@ https://api.telegram.org/bot<您的BOT_TOKEN>/setWebhook?url=<您的Worker服务
 ```
 如果返回 `{"ok":true,"result":true,"description":"Webhook was set"}`，则表示部署成功。
 
+### PS:如果更换了Bot密钥，请一定重新执行步骤五
+
 **现在，管理员私聊 Bot 发送 `/start` 即可进入配置菜单。**
